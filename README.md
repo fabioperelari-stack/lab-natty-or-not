@@ -1,9 +1,8 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-### Template
-
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+Criei um episódio de podcast explorando os mistérios do universo, como buracos negros, matéria escura e a possibilidade de vida extraterrestre. O conteúdo foi gerado inteiramente com IAs generativas, combinando narração realista, trilha sonora envolvente e roteiro informativo. O objetivo foi criar uma experiência imersiva e educativa, como se fosse produzido por uma equipe profissional.
 
 ## 📒 Descrição
 Breve descrição do seu projeto
